@@ -1,0 +1,7 @@
+com\example\survey\config\CorsConfig.class
+com\example\survey\model\InterestSource.class
+com\example\survey\model\RecommendLikelihood.class
+com\example\survey\model\Survey.class
+com\example\survey\SurveyApplication.class
+com\example\survey\web\SurveyController.class
+com\example\survey\repo\SurveyRepository.class
